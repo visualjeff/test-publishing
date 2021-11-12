@@ -2,6 +2,25 @@
 
 #### ⚠️ Pushed to `main`
 
+- Added .npmignore file (jgilber@costco.com)
+- updated package.json, updated .gitignore and added .env file (jgilber@costco.com)
+- changed name (jgilber@costco.com)
+- corrected package.json (jgilber@costco.com)
+- update package.json (jgilber@costco.com)
+- initial init (jgilber@costco.com)
+- Initial commit ([@visualjeff](https://github.com/visualjeff))
+
+#### Authors: 2
+
+- Jeff ([@visualjeff](https://github.com/visualjeff))
+- Jeffrey Gilbert (jgilber@costco.com)
+
+---
+
+# v0.0.2 (Fri Nov 12 2021)
+
+#### ⚠️ Pushed to `main`
+
 - updated package.json, updated .gitignore and added .env file (jgilber@costco.com)
 - changed name (jgilber@costco.com)
 - corrected package.json (jgilber@costco.com)
