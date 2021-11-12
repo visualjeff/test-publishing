@@ -5,13 +5,13 @@
   "repository": "https://github.com/visualjeff/test-publishing.git",
   "main": "lib/index.js",
   "keywords": [
-    "test",
+    "test"
   ],
   "devDependencies": {
     "auto": "^10.32.2"
   },
   "scripts": {
-    "release": "auto shipit --base-branch=main",
+    "release": "auto shipit --base-branch=main"
   },
   "license": ""
 }
