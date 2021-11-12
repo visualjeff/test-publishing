@@ -1,5 +1,5 @@
 {
-  "name": "test-publishing",
+  "name": "@visualjeff/test-publishing",
   "description": "test publishing to NPM using auto",
   "version": "0.0.5",
   "repository": "https://github.com/visualjeff/test-publishing.git",
