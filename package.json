@@ -1,7 +1,7 @@
 {
   "name": "@visualjeff/test-publishing",
   "description": "test publishing to NPM using auto",
-  "version": "0.0.7",
+  "version": "0.0.1",
   "repository": "https://github.com/visualjeff/test-publishing.git",
   "main": "lib/index.js",
   "keywords": [
@@ -13,5 +13,11 @@
   "scripts": {
     "release": "auto shipit --base-branch=main"
   },
-  "license": ""
+  "license": "",
+  "author": "visualjeff <visualjeff@icloud.com>",
+  "auto": {
+    "plugins": [
+      "npm"
+    ]
+  }
 }
