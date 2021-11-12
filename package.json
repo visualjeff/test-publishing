@@ -11,7 +11,7 @@
     "auto": "^10.32.2"
   },
   "scripts": {
-    "release": "auto shipit --base-branch=master",
+    "release": "auto shipit --base-branch=main",
   },
   "license": ""
 }
