@@ -1,0 +1,17 @@
+{
+  "name": "test-publishing",
+  "description": "test publishing to NPM using auto",
+  "version": "0.0.1",
+  "repository": "https://github.com/visualjeff/test-publishing.git",
+  "main": "lib/index.js",
+  "keywords": [
+    "test",
+  ],
+  "devDependencies": {
+    "auto": "^10.32.2"
+  },
+  "scripts": {
+    "release": "auto shipit --base-branch=master",
+  },
+  "license": ""
+}
