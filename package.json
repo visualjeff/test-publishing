@@ -13,7 +13,7 @@
   "scripts": {
     "release": "auto shipit --base-branch=main"
   },
-  "license": "",
+  "license": "0BSD",
   "private": false,
   "author": "visualjeff <visualjeff@icloud.com>",
   "auto": {
