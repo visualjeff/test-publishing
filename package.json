@@ -1,7 +1,7 @@
 {
   "name": "@visualjeff/test-publishing",
   "description": "test publishing to NPM using auto",
-  "version": "0.1.100",
+  "version": "0.1.101",
   "repository": "https://github.com/visualjeff/test-publishing.git",
   "main": "lib/index.js",
   "keywords": [
