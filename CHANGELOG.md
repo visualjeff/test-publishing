@@ -1,3 +1,31 @@
+# v0.0.6 (Wed Nov 17 2021)
+
+#### ⚠️ Pushed to `main`
+
+- updated package.json (jgilber@costco.com)
+- Merge branch 'main' of https://github.com/visualjeff/test-publishing (jgilber@costco.com)
+- Update manual.yml ([@visualjeff](https://github.com/visualjeff))
+- updated package.json, remove .autorc (jgilber@costco.com)
+- made the packag public (jgilber@costco.com)
+- updated .autorc (jgilber@costco.com)
+- created an .autorc (jgilber@costco.com)
+- Create manual.yml ([@visualjeff](https://github.com/visualjeff))
+- bumped version # (jgilber@costco.com)
+- Added .npmignore file (jgilber@costco.com)
+- updated package.json, updated .gitignore and added .env file (jgilber@costco.com)
+- changed name (jgilber@costco.com)
+- corrected package.json (jgilber@costco.com)
+- update package.json (jgilber@costco.com)
+- initial init (jgilber@costco.com)
+- Initial commit ([@visualjeff](https://github.com/visualjeff))
+
+#### Authors: 2
+
+- Jeff ([@visualjeff](https://github.com/visualjeff))
+- Jeffrey Gilbert (jgilber@costco.com)
+
+---
+
 # v0.0.5 (Fri Nov 12 2021)
 
 #### ⚠️ Pushed to `main`
