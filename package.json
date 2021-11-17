@@ -14,6 +14,7 @@
     "release": "auto shipit --base-branch=main"
   },
   "license": "",
+  "private": false,
   "author": "visualjeff <visualjeff@icloud.com>",
   "auto": {
     "plugins": [
