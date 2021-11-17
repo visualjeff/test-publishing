@@ -15,10 +15,5 @@
   },
   "license": "0BSD",
   "private": false,
-  "author": "visualjeff <visualjeff@icloud.com>",
-  "auto": {
-    "plugins": [
-      "npm"
-    ]
-  }
+  "author": "visualjeff <visualjeff@icloud.com>"
 }
