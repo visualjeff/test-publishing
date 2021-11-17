@@ -1,2 +1,6 @@
-name=test-publishing
-email=visualjeff@icloud.com
+{
+  "author": {
+    "name": "VJ",
+    "email": "visualjeff@icloud.com"
+  }
+}
