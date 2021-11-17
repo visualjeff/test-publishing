@@ -21,10 +21,8 @@
       "npm"
     ]
   },
-  {
-    "publishConfig": {
-      "registry": "https://registry.npmjs.org/",
-      "access": "public"
-    }
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   }
 }
