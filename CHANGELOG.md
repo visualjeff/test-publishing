@@ -1,3 +1,16 @@
+# v0.0.8 (Wed Nov 17 2021)
+
+#### ⚠️ Pushed to `main`
+
+- merge resolution (jgilber@costco.com)
+- updated package.json, bumped version (jgilber@costco.com)
+
+#### Authors: 1
+
+- Jeffrey Gilbert (jgilber@costco.com)
+
+---
+
 # v0.0.7 (Wed Nov 17 2021)
 
 
