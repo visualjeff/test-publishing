@@ -1,3 +1,15 @@
+# v0.0.101 (Wed Nov 17 2021)
+
+#### ⚠️ Pushed to `main`
+
+- updated package.json, bumped version (jgilber@costco.com)
+
+#### Authors: 1
+
+- Jeffrey Gilbert (jgilber@costco.com)
+
+---
+
 # v0.0.11 (Wed Nov 17 2021)
 
 #### ⚠️ Pushed to `main`
