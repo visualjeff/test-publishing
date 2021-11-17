@@ -18,7 +18,7 @@
   "author": "visualjeff <visualjeff@icloud.com>",
   "auto": {
     "plugins": [
-      ["npm"]
+      "npm"
     ]
   }  
 }
